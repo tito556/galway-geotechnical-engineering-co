@@ -1,0 +1,45 @@
+# Geotechnical Engineering — Galway
+
+> Geotechnical engineering services in Galway, Ireland.
+
+## Services
+- [Anchors](https://galway.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://galway.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://galway.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://galway.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://galway.geotechnical-engineering.co/deep-excavations/)
+- [Excavations](https://galway.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://galway.geotechnical-engineering.co/flexible-pavement/)
+- [Geophysics](https://galway.geotechnical-engineering.co/geophysics/)
+- [Grain Size](https://galway.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://galway.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://galway.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://galway.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://galway.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://galway.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://galway.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://galway.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://galway.geotechnical-engineering.co/masw/)
+- [Resistivity](https://galway.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://galway.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://galway.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://galway.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://galway.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://galway.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://galway.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://galway.geotechnical-engineering.co/seismic-microzonation/)
+- [Slope Stability](https://galway.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://galway.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://galway.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://galway.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://galway.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://galway.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://galway.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://galway.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://galway.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Galway, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
